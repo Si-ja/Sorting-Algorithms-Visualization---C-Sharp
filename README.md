@@ -49,7 +49,9 @@ To run the program, simply navigate to the __bin__ folder -> __Release__ -> __So
 
 The program currently looks in the following way:
 __Insertion Sort:__
+---
 ![](https://github.com/Si-ja/Sorting-Algorithms-Visualization---C-Sharp/blob/master/Visuals/InsertionSort.gif "Insertion Sort")
 
 __Selection Sort:__
+---
 ![](https://github.com/Si-ja/Sorting-Algorithms-Visualization---C-Sharp/blob/master/Visuals/SelectionSort.gif "Selection Sort")
